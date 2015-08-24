@@ -10,4 +10,6 @@ RUN         apt-get -y update && \
             apt-get -y install \
               openjdk-7-jdk \
               ant \
-              maven
+              maven \
+              git \
+              subversion
